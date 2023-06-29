@@ -1,5 +1,5 @@
 ![MasterHead](https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5d6e60d9c9361a764d0929b8_system-administrator.jpg)
-<h1 align="center">I'm freelancer SystemAdministrator</h1>
+<h1 align="center">I'm freelancer, SystemAdministrator</h1>
 <h3 align="center">I am very knowledgeable in Windows Server Administration, proficient in implementing Active Directory services and troubleshooting network connectivity.</h3>
 
 <p align="left"> <a href="https://twitter.com/selim6891" target="blank"><img src="https://img.shields.io/twitter/follow/selim6891?logo=twitter&style=for-the-badge" alt="selim6891" /></a> </p>
