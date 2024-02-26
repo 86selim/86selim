@@ -2,7 +2,7 @@
 <h1 align="center">I'm freelancer, SystemAdministrator</h1>
 <h3 align="center">I am very knowledgeable in Windows Server Administration, proficient in implementing Active Directory services and troubleshooting network connectivity.</h3>
 
-<p align="left"> <a href="https://twitter.com/selim6891" target="blank"><img src="https://img.shields.io/twitter/follow/selim6891?logo=twitter&style=for-the-badge" alt="selim6891" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Selim_W86" target="blank"><img src="https://img.shields.io/twitter/follow/selim6891?logo=twitter&style=for-the-badge" alt="Selim_W86" /></a> </p>
 
 - 💬 Ask me about **I am very knowledgeable in Windows Server Administration, proficient in implementing Active Directory services and troubleshooting network connectivity.**
 
